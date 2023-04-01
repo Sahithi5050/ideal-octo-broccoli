@@ -1,0 +1,18 @@
+.copy_write_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#camera{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
